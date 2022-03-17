@@ -10,6 +10,5 @@
 
 
 
-
-# 2. Bert 
+# 2. Bert_Sentences_Classification
   
