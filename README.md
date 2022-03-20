@@ -13,7 +13,7 @@
 
 # 2. Bert_Sentences_Classification
   - 1번에 이어 BERT를 이용해 한국어 긍/부정 분류, 다중 분류, 문서 쌍 분류(NLI)하는 Text Classfication Task입니다
-  - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub), 카카오 브레인 데이터셋
+  - - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub), 카카오 브레인 데이터셋
 
   - 해당 모델을 사용하기 위해 전처리 함수를 만들어 놓았으나 데이터에 어느 정도의 전처리가 필요
   - 변수명의 통일이 필요함 document_1, document_2(문서 쌍 분류의 경우), label
