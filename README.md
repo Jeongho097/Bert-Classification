@@ -1,7 +1,8 @@
 # Bert-Classification
 1. AI기술 자연어 처리 과정 2기 (구름)
    영어 문장 감성 분석
- 2. 개인 프로젝트 (추가 예정)
+ 2. 개인 프로젝트
+    1번의 코드를 함수로 간편화하고 
     감성 분석(Sentiment Classification), 문서 쌍 분류(NLI)를 하기 위한 Bert Classification Model을 만듬
 
  - colab을 사용
