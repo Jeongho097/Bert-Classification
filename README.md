@@ -9,7 +9,7 @@
 # 1. Text Classification
  - AI기술 자연어 처리 과정 2기 (구름)에서 진행한 BERT를 이용해 영어 문장 긍정/부정 분류하는 Text Classfication Task입니다
  - 사용 데이터 : 교육기관에서 제공한 영어 긍/부정 문장 약 45만 개 
- -    -
+     - https://www.kaggle.com/c/goormtextclassificationproject2/data
  - 사전 학습 모델 : 'bert-base-uncased' (허깅페이스에 등록되어 있어 사용하기 편리함)
 
 
