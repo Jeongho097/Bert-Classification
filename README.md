@@ -18,7 +18,7 @@
   - 앞서 만든 영어 문장 긍/부정 분류기에 이어 함수를 간편화하고 다중 분류의 경우에도 문제를 해결할 수 있도록 만들었습니다
     - 함수를 생성해 간편하게 모델을 학습 테스트 해볼 수 있도록 만듦
   - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub)
-   !git clone https://github.com/e9t/nsmc.git # NSMC 
+     !git clone https://github.com/e9t/nsmc.git # NSMC 
    - https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009 (AI Hub 데이터 셋)
  
   - 사전 학습 모델 : 'klue/bert-base' (허깅페이스에 등록되어 있어 사용하기 편리함)
