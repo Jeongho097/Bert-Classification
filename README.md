@@ -19,10 +19,9 @@
     - 함수를 생성해 간편하게 모델을 학습 테스트 해볼 수 있도록 만듦
   - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub)
    
-     - !git clone https://github.com/e9t/nsmc.git # NSMC 
-     - 
+     * !git clone https://github.com/e9t/nsmc.git # NSMC 
      - https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009 (AI Hub 데이터 셋)
-     - 
+ 
   - 사전 학습 모델 : 'klue/bert-base' (허깅페이스에 등록되어 있어 사용하기 편리함)
     - kcbert나 kobert에 비해서 더 다양한 분야의 데이터를 사용했기 때문에 성능향상에 더 적합하다고 판단
 
