@@ -15,9 +15,11 @@
 
 
 # 2. Bert_Sentences_Classification
-  - 1번에 이어 BERT를 이용해 한국어 긍/부정 분류, 다중 분류, 문서 쌍 분류(NLI)하는 Text Classfication Task입니다
+  - 앞서 만든 영어 문장 긍/부정 분류기에 이어 함수를 간편화하고 다중 분류의 경우에도 문제를 해결할 수 있도록 만들었습니다
     - 함수를 생성해 간편하게 모델을 학습 테스트 해볼 수 있도록 만듦
-  - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub), 카카오 브레인 데이터셋
+  - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub)
+   *  !git clone https://github.com/e9t/nsmc.git # NSMC 
+
      - https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009 (AI Hub 데이터 셋)
   - 사전 학습 모델 : 'klue/bert-base' (허깅페이스에 등록되어 있어 사용하기 편리함)
     - kcbert나 kobert에 비해서 더 다양한 분야의 데이터를 사용했기 때문에 성능향상에 더 적합하다고 판단
