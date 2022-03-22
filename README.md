@@ -20,6 +20,8 @@
   - 사용 데이터 : NSMC, 한국어 감정 정보가 포함된 단발성 대화 데이터셋(AI Hub)
    
      * !git clone https://github.com/e9t/nsmc.git # NSMC 
+
+
      - https://aihub.or.kr/opendata/keti-data/recognition-laguage/KETI-02-009 (AI Hub 데이터 셋)
  
   - 사전 학습 모델 : 'klue/bert-base' (허깅페이스에 등록되어 있어 사용하기 편리함)
